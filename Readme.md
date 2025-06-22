@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:2563eb&height=200&section=header&text=Hi!%20I'm%20Nishant%20Sharma%20🚀&fontSize=40&fontAlignY=40&desc=Passionate%20Student%20%26%20Next.js%20Developer&descAlignY=70&descAlign=62" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I%20Am%20Nishant%20Sharma" alt="banner"/>
 </p>
 
 <!-- Badges -->
